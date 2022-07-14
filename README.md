@@ -1,4 +1,4 @@
-# Crud made with Java
+# Simple Crud with Java (Jframes and JDBC (mysql) connector). 
 
 This is a Simple Crud made for a project of my career.
 Este es un crud simple hecho para un proyecto de mi carrera.
